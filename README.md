@@ -4,7 +4,7 @@
    Age : "16",
    location : "Egypt",
    MySkills : {
-      Librarys : ["Ejs" , "React.JS", "Express", "Pug"]
+      Librarys : ["Ejs" , "React.JS", "Express", "Pug", "Electron.Js"]
   },
   Languages : ["HTML" , "CSS" , "JavaScript"],
   Contact : {

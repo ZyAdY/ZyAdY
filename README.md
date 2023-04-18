@@ -15,6 +15,6 @@
 
 <img align="left" alt="ChickenDevs' Stats" src="https://github-readme-stats.vercel.app/api?username=ZyAdY&count_private=true&show_icons=true&theme=radical">
 ## Visitor count
-<p align="left"> 
+<p> 
   <img src="https://profile-counter.glitch.me/ZyAdY/count.svg" />
 </p>

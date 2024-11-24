@@ -1,12 +1,12 @@
 ```js
  const ZyAdY_4713 = {
    name : "ZyAd",
-   Age : "16",
+   Age : "19",
    location : "Egypt",
    MySkills : {
-      Librarys : ["Ejs" , "React.JS", "Express", "Pug", "Electron.Js"]
+      Librarys : ["Ejs" , "React.JS", "Express", "Pug", "Electron.Js", "Next.js", "TailWindCss", "Preline", "Shadcn"]
   },
-  Languages : ["HTML" , "CSS" , "JavaScript"],
+  Languages : ["HTML" , "CSS" , "JavaScript", "Node.js" , "C++"],
   Contact : {
     Discord : "ZyAdY_4713#0032"
   }
